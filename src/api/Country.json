@@ -1,0 +1,62 @@
+[
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1400000000,
+    "interestingFact": "India is the world's largest democracy."
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331000000,
+    "interestingFact": "The United States has no official language."
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 126000000,
+    "interestingFact": "Japan is home to the world's oldest company, Kongo Gumi, founded in 578 AD."
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "interestingFact": "Australia is the only continent covered by a single country."
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 214000000,
+    "interestingFact": "Brazil is the largest coffee producer in the world."
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38000000,
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "interestingFact": "Germany is home to the world’s first printed book."
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": 60000000,
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1440000000,
+    "interestingFact": "China is the most populous country in the world."
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "population": 67000000,
+    "interestingFact": "France is the most visited country in the world."
+  }
+]
